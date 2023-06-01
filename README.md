@@ -14,7 +14,7 @@
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=8cc4d7)
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 
-### Testing Documentation
+## Testing Documentation
 - Checklists
 - Test-Suites and Test-Cases
 - Bug-Reports
