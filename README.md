@@ -16,7 +16,7 @@
 
 ## Testing Documentation
 - Checklists
-- Test-Suites and Test-Cases
+- [Test-Suites and Test-Cases](https://github.com/username-paganini/username-paganini/blob/main/Documentation/TestCase/TestCase_example.docx)
 - [Bug-Reports](https://github.com/username-paganini/username-paganini/blob/main/Documentation/Bug%20report/BugReport_example.docx)
 - SQL Queries
 - Postman Collections
